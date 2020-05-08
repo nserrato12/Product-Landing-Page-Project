@@ -1,0 +1,68 @@
+/*------------*/
+
+
+/*----------Page should contain at least 1 media query----------*/
+
+
+/*----------Page should utilize CSS flexbox at least once----------*/
+
+
+/*------------*/
+
+
+/*-----Header element-----*/
+
+
+/*-----Image within header element-----*/
+
+
+/*-----Must have <nav> element within header element-----*/
+
+#header {}
+
+#header-img {}
+
+
+/*--this will be the <nav> element--*/
+
+
+/*--three clickable elements inside the <nav> element each with a nav link class--*/
+
+
+/*--nav-bar should always be at the top of the viewport-*/
+
+#nav-bar {}
+
+
+/*--must take you to a different part of the page--*/
+
+.nav-link {}
+
+
+/*-----add an embedded product video-----*/
+
+#video {}
+
+
+/*-------------include a form element-------------*/
+
+#form {}
+
+
+/*--add an input email in the form--*/
+
+
+/*--email should have placeholder text--*/
+
+
+/*--email shoul have validation error to confirm email address--*/
+
+#email {}
+
+
+/*--form element should have a submit input--*/
+
+
+/*--email should submit to "https://freecodecamp.com/email-submit"--*/
+
+#submit {}
