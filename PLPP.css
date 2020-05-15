@@ -106,7 +106,13 @@ p {
     margin: 50px auto 50px auto;
 }
 
-.product-section {
+#product-section {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.product-section-2 {
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-evenly;
@@ -218,7 +224,6 @@ p {
     color: white;
     font-family: Jost, Helvetica, sans-serif;
     font-size: 1rem;
-    border: 1px solid white;
 }
 
 .answer {
@@ -229,7 +234,6 @@ p {
 footer {
     display: flex;
     justify-content: space-around;
-    border: 1px solid white;
 }
 
 .footer-link {
