@@ -241,7 +241,7 @@ footer {
 }
 
 @media (max-width: 968px) {
-    #product-section-1 {
+    #product-section {
         flex-wrap: wrap;
     }
     .product-section-2 {
